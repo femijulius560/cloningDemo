@@ -19,4 +19,8 @@ and remove the origin if it isn't yours and you want it on yours
 ## Create your own repo on GitHub
 
 Goto GitHub and 'New Repository' -> give it a name
-Copy the new 
+Copy the new URL
+
+Grab the commands for 'exisiting repo' 
+Paste those commands in your terminal and that will push your local repo into 
+YOUR GitHub
